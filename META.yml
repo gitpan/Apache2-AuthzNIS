@@ -1,6 +1,6 @@
 ---
 name: Apache2-AuthzNIS
-version: 0.12
+version: 0.13
 author:
   - 'Nguon Hao Ching <hao@iteaha.us>'
 abstract: mod_perl2 NIS Group Authorization module
@@ -16,7 +16,7 @@ recommends:
 provides:
   Apache2::AuthzNIS:
     file: lib/Apache2/AuthzNIS.pm
-    version: 0.12
+    version: 0.13
 generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html

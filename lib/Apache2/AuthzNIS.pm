@@ -24,7 +24,7 @@ Apache2::AuthzNIS - mod_perl2 NIS Group Authorization module
 
 =cut
 
-our $VERSION = '0.12';
+our $VERSION = '0.13';
 
 
 =head1 SYNOPSIS

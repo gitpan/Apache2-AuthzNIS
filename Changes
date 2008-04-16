@@ -1,5 +1,8 @@
 Revision history for Apache2-AuthzNIS
 
+0.13    Apr 16 2008
+        Modified test to skip if mod_perl2 is not found.
+
 0.12    Apr 10 2008
         First version, forked from Apache::AuthzNIS 0.11.
 
